@@ -1,6 +1,6 @@
 {
-    "name": "become_an_ai_agent",
-    "short_name": "become_an_ai_agent",
+    "name": "Become An Ai Agent",
+    "short_name": "Become An Ai Agent",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

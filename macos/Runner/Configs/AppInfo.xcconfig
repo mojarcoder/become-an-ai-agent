@@ -5,7 +5,7 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = become_an_ai_agent
+PRODUCT_NAME = Become An Ai Agent
 
 // The application's bundle identifier
 PRODUCT_BUNDLE_IDENTIFIER = com.mojarcoder.becomeAnAiAgent
